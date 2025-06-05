@@ -1,8 +1,0 @@
-- hosts: localhost
-  tasks:
-    - name: Configurar NAT no r1
-      command: docker exec r1 iptables -t nat -A POSTROUTING -o r1-eth1 -j MASQUERADE
-
-    - name: Aplicar regras de firewall
-      command: docker exec {{ item }} iptables -A FORWARD -p tcp --dport 80 -j DROP
-      loop: "{{ range(1, 12)|list|map('string')|map('regex_replace', '^', 'r') }}"
