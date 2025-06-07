@@ -10,3 +10,6 @@ permitindo uma análise detalhada do funcionamento dos protocolos de comunicaç�
 da interligação entre os elementos da infraestrutura.
 
 🎥 **Assista à simulação**: https://youtu.be/ed3G7Vz-5OA
+
+[![Simulação da Topologia no Packet Tracer](https://img.youtube.com/vi/ed3G7Vz-5OA/0.jpg)](https://youtu.be/ed3G7Vz-5OA)
+
