@@ -9,4 +9,4 @@ A estrutura da rede foi projetada para garantir eficiência na transmissão de d
 permitindo uma análise detalhada do funcionamento dos protocolos de comunicação e
 da interligação entre os elementos da infraestrutura.
 
-🎥 **Assista à simulação**: Clique aqui para ver o vídeo
+🎥 **Assista à simulação**: https://youtu.be/ed3G7Vz-5OA
